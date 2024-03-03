@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/howl/static/css/main.99aa1446.css",
+    "main.js": "/howl/static/js/main.601d1382.js",
+    "static/js/453.67a7b7c4.chunk.js": "/howl/static/js/453.67a7b7c4.chunk.js",
+    "static/media/howl1.jpg": "/howl/static/media/howl1.7c0acbbbfd3839dddc48.jpg",
+    "static/media/chart1.png": "/howl/static/media/chart1.76b2c00e1a44e7b6c3f3.png",
+    "static/media/howl2.png": "/howl/static/media/howl2.982cebbff2023bf9f1aa.png",
+    "static/media/track3.png": "/howl/static/media/track3.25b406a05ce32d22f848.png",
+    "static/media/cardImg4.png": "/howl/static/media/cardImg4.8948d48db1f079eaceb3.png",
+    "static/media/cardImg1.png": "/howl/static/media/cardImg1.fcf1bd3cd3f7bdbf41ce.png",
+    "static/media/cardImg3.png": "/howl/static/media/cardImg3.152069fefb0e192bc0e7.png",
+    "static/media/cardImg6.png": "/howl/static/media/cardImg6.ecadf5fb40fd18ccfea1.png",
+    "static/media/cardImg5.png": "/howl/static/media/cardImg5.d3e400ce61f1600863ab.png",
+    "static/media/track1.png": "/howl/static/media/track1.37665c81d3eb36b9c980.png",
+    "index.html": "/howl/index.html",
+    "main.99aa1446.css.map": "/howl/static/css/main.99aa1446.css.map",
+    "main.601d1382.js.map": "/howl/static/js/main.601d1382.js.map",
+    "453.67a7b7c4.chunk.js.map": "/howl/static/js/453.67a7b7c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99aa1446.css",
+    "static/js/main.601d1382.js"
+  ]
+}
