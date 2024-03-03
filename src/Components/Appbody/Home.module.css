@@ -1,0 +1,223 @@
+.firstsentance{
+    margin: 60px 0px 0px 120px;
+    width: 350px;
+    height: 30px;
+}
+.StyledFont{
+    color:#ff66ff;
+}
+.your{
+    font-size: 100px;
+    margin: 0px 0px 0px 120px;
+    padding: 0px 0px 0px 0px;
+}
+.Growth{
+    font-size: 100px;
+    margin: 0px 0px 0px 180px;
+}
+.partners{
+    font-size: 100px;
+    margin: 0px 0px 0px 230px;
+}
+.part1{
+    display: flex;
+}
+.howl1{
+    width: 550px;
+    height: 350px;
+    margin: 0px 0px 0px 100px;
+}
+.howl2{
+    position: absolute;
+    width: 300px;
+    height: 230px;
+    margin: 270px 0px 0px 220px;
+}
+.secondSentance{
+    margin: 0px 190px 0px 620px;
+}
+.part2{
+    background-color: #bbafd7;
+    height: 650px;
+}
+.buttonWithCharts{
+    display: flex;
+}
+.part2buttons1{
+    border: none;
+    background-color:#bbafd7;
+    color: #eaeae1;
+    margin: 50px 0px 10px 100px;
+    font-size: large;
+}
+.part2buttons1Click{
+    border: none;
+    background-color:#bbafd7;
+    color: white;
+    font-weight: 700;
+    margin: 50px 0px 10px 100px;
+    cursor: pointer;
+    font-size: large;
+}
+.part2buttons1:hover{
+    border: none;
+    background-color:#bbafd7;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: large;
+}
+.chartsStyle{
+    border:1px solid white;
+}
+.part2buttons{
+    border: none;
+    background-color:#bbafd7;
+    color: #eaeae1;
+    margin: 0px 0px 10px 100px;
+    font-size: large;
+}
+.part2buttonsClick{
+    border: none;
+    background-color:#bbafd7;
+    color: white;
+    margin: 0px 0px 10px 100px;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: large;
+}
+.part2buttons:hover{
+    border: none;
+    background-color:#bbafd7;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: large;
+}
+
+.chart1{
+    margin: 80px 0px 0px 50px;
+
+}
+.chart2{
+    margin: 80px 0px 0px 50px;
+    color: white;
+}
+.label1{
+    background-color:white;
+    color: #bbafd7;
+    height: 30px;
+    width: 250px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0px 0px 10px 0px;
+    font-size: small;
+}
+
+.label2{
+    background-color:#d5cce5;
+    color: white;
+    height: 30px;
+    width: 250px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0px 0px 10px 0px;
+    font-size: small;
+
+}
+
+.label3{
+    border-style: dashed;
+    color: white;
+    height: 30px;
+    width: 245px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0px 0px 10px 0px;
+    font-size: small;
+
+}
+.layer4{
+    background-color: #949ed1;
+    color: white;
+    height: 30px;
+    width: 250px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0px 0px 10px 0px;
+    font-size: small;
+
+}
+.layer5{
+    background-color: #afaad5;
+    color: white;
+    height: 30px;
+    width: 250px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0px 0px 10px 0px;
+    font-size: small;
+
+}
+.chartIndicators{
+    margin: 70px 0px 0px 130px;
+    border-color:black;
+    border:1px solid white;
+    padding: 50px 50px 50px 50px;
+}
+.diveDeeperbtncls{
+    border: 1px solid white;
+    float: right;
+    background-color: #bbafd7;
+    color: #eaeae1;
+    cursor: pointer;
+    margin: 0px 28px 0px 0px;
+    width: 120px;
+    height: 50px;
+}
+
+.cards_container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 50px 0px 50px;
+}
+.car{
+    margin: 0px 10px 10px 10px;
+}
+.Client{
+    font-size: xx-large;
+    font-weight:bolder;
+    color: #bd72d3;
+    margin: 50px 0px 20px 280px ;
+}
+
+.letsTalk{
+    color: #bd72d3;
+    text-decoration: underline;
+}
+.accelerate{
+   color: #757575; 
+}
+.Part4Sentance{
+    font-size: xx-large;
+    font-weight:bolder;
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+}
+.track{
+   background-color: #bd72d3; 
+   height: 250px;
+   display: flex;
+}
+.trackSentance{
+    font-size:xx-large;
+    font-weight:bolder;
+    color: white;
+    margin: 80px 50px 0px 200px;
+}
+.trackimage_Container{
+    margin: 50px 0px 0px 0px;
+}
+.trackImage{
+    margin: 0px 5px 0px 5px;
+}
